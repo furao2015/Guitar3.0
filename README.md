@@ -1,1 +1,6 @@
-# Guitar3.0
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/1.png)
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/2.png)
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/3.png)
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/4.png)
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/5.png)
+![](https://github.com/furao2015/Guitar3.0/raw/master/img/6.png)
